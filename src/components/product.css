@@ -1,0 +1,30 @@
+.product {
+  display: inline-block;
+  width: 270px;
+  height: 450px;
+  border: 1px solid #aaa;
+  border-radius: 6px;
+  padding: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.product img {
+  width: 250px;
+  height: 230px;
+}
+
+.product .price-info .price {
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  font-size: 18px;
+}
+
+.product .price-info .total {
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}

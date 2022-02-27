@@ -1,0 +1,29 @@
+
+
+.cart-item {
+    display: flex;
+    border: 1px solid #333;
+    padding: 10px 15px;
+    margin-bottom: 12px;
+}
+
+.cart-item img {
+    flex: 2;
+}
+
+.cart-item .info {
+    flex: 5;
+}
+
+.cart-item .price,
+.cart-item .quantity {
+    flex: 1;
+}
+
+.cart-item .total {
+    flex: 2;
+}
+
+.cart-item button {
+    flex: 1;
+}

@@ -1,0 +1,16 @@
+
+.footer {
+    background: #fafafa;
+}
+
+.footer h5 {
+    color: #666;
+    padding-top: 12px;
+    margin-bottom: 8px;
+}
+
+.footer h6 {
+    color: #999;
+    padding-bottom: 15px;
+    margin-top: 0;
+}

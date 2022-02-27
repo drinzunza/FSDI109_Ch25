@@ -1,0 +1,28 @@
+.admin-container {
+    display: flex;
+}
+
+.admin-container .prods {
+    flex: 2;
+}
+
+.admin-container .coupons {
+    flex: 1;
+}
+
+.admin-container .form label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    margin-right: 5px;
+}
+
+.admin-container .form input {
+    display: inline-block;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+.admin-container .form button {
+    margin-top: 10px;
+}
